@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buoi2", "buoi2\buoi2.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buoi3", "buoi3\buoi3.vcxproj", "{A9751577-538A-4D12-9C97-80324D62F214}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buoi4", "buoi4\buoi4.vcxproj", "{F76881D1-D0CA-482D-A988-FAC673A09AF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{A9751577-538A-4D12-9C97-80324D62F214}.Release|x64.Build.0 = Release|x64
 		{A9751577-538A-4D12-9C97-80324D62F214}.Release|x86.ActiveCfg = Release|Win32
 		{A9751577-538A-4D12-9C97-80324D62F214}.Release|x86.Build.0 = Release|Win32
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|Any CPU.Build.0 = Debug|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|x64.ActiveCfg = Debug|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|x64.Build.0 = Debug|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Debug|x86.Build.0 = Debug|Win32
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|Any CPU.ActiveCfg = Release|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|Any CPU.Build.0 = Release|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|x64.ActiveCfg = Release|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|x64.Build.0 = Release|x64
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|x86.ActiveCfg = Release|Win32
+		{F76881D1-D0CA-482D-A988-FAC673A09AF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
