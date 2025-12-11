@@ -11,19 +11,27 @@ void cau1() {
     cout << "Tong:" << tong << endl;
 }
 void cau2() {
-        int n, tich = 1;
-        cout << "Nhap n:";
-        cin >> n;
-        for (int i = 1; i <= n; i++) {
-            tich *= i;
-        }
-        cout << "Tich:" << tich << endl;
-    
-}
+    int n, tich = 1;
+    cout << "Nhap n:";
+    cin >> n;
+    for (int i = 1; i <= n; i++) {
+        tich *= i;
+    }
+    cout << "Tich:" << tich << endl;
 
-int main()
-{
-    cau2();
+}
+void cau3() {
+    int x, n, tich = 1;
+    cout << "Nhap x, n:";
+    cin >> x >> n;
+    for (int i = 1; i <= n; i++) {
+        tich *= x;
+    }
+    cout << "Tich:" << tich << endl;
+}
+int main() {
+
+    cau3();
 }
 
 
