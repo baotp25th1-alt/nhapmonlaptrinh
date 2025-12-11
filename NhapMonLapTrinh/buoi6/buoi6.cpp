@@ -29,9 +29,17 @@ void cau3() {
     }
     cout << "Tich:" << tich << endl;
 }
+void cau4() {
+    int n;
+    cout << "Nhap bang cuu chuong:";
+    cin >> n;
+    for (int i = 1; i <= 10; i++) {
+        cout << n << "x" << " = " << n * i << endl;
+    }
+}
 int main() {
 
-    cau3();
+    cau4();
 }
 
 
