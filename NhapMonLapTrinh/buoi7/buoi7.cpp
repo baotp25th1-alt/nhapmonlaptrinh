@@ -1,6 +1,6 @@
 #include "baitap6.h"
 
 int main() {
-	cau11();
+	cau12();
 }
 
