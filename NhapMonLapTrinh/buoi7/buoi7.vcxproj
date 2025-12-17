@@ -129,8 +129,10 @@
   <ItemGroup>
     <ClCompile Include="buoi7.cpp" />
     <ClCompile Include="Songuyen.cpp" />
+    <ClCompile Include="baitap6.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="baitap6.h" />
     <ClInclude Include="Songuyen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
