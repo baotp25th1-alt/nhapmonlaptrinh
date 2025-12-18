@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{da05f220-20ba-417e-97bc-93ba0b33eff7}</ProjectGuid>
-    <RootNamespace>buoi7</RootNamespace>
+    <ProjectGuid>{3aa24e08-8c57-48f3-bfc3-9a99c72e2385}</ProjectGuid>
+    <RootNamespace>buoi12</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,14 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="buoi7.cpp" />
-    <ClCompile Include="Songuyen.cpp" />
-    <ClCompile Include="baitap6.cpp" />
-    <ClCompile Include="Sonuyento.cpp" />
+    <ClCompile Include="Bibotr.cpp" />
+    <ClCompile Include="buoi12.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="baitap6.h" />
-    <ClInclude Include="Songuyen.h" />
+    <ClInclude Include="Bibotr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
