@@ -83,9 +83,9 @@ void sapxep(int b[], int n) {
 				b[i] = t;
 			}
 }
-int giatriduongdautien(int b[], int n) {
-	for (int i = 0; i < n; i++) {
-		if (b[i] > 0)
+int giatrichancuoicung(int b[], int n) {
+	for (int i = n - 1; i >= 0; i--) {
+		if (b[i] % 2 == 0)
 			return b[i];
 	}
 	return -1;
